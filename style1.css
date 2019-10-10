@@ -1,0 +1,38 @@
+/* .btn-default{
+    border-color:  #44beb5;
+    color: #44beb5;
+}
+
+.data-colss
+{
+    border-radius: 10px;
+
+} */
+
+.card-img {
+    max-width: 88px;
+    max-height: 88px;
+}
+
+.long-content {
+    border: 2px;
+    padding: 3%;
+    background-color: rgb(249, 251, 251);
+}
+
+.brand {
+    height: 66px;
+}
+
+nav {
+    box-shadow: -6px 0px 3px 0px black;
+}
+
+.col-md-12 {
+    padding: 7%;
+    padding-top: 0%;
+}
+
+.card-title {
+    margin-bottom: .07rem;
+}
